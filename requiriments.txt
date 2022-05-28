@@ -1,0 +1,6 @@
+Django=4.0.4
+django-simpleui=2022.4.9
+celery==5.2.6
+django-celery-results==2.3.1
+django-celery-beat==2.2.1
+simplepro==4.0.8
